@@ -24,9 +24,6 @@ GCloud
 AWS
 - g5.2xlarge	32.0 GiB	8 vCPUs 	1 	NVIDIA A10G	24 GiB 	450 GB NVMe SSD 	Up to 10 Gigabit 	$1.3530 hourly
 
-
-
-
 ## 1xNVIDIA A100 with 40 GB VRAM
 
 Lambda Labs:
@@ -37,8 +34,6 @@ GCloud
 
 AWS
 - p4d.24xlarge	1152.0 GiB	96 vCPUs 	8 	NVIDIA A100	320 GiB 	8000 GB (8 * 1000 GB NVMe SSD) 	4x 100 Gigabit 	$35.3965 hourly
-
-
 
 I have to figure out how to use this instance only for necessary training time, and automate its shutdown to reduce costs:
 
