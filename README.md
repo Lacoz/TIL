@@ -10,3 +10,7 @@ Cloud GPU
 Gradle
 
 [Upgrade gradle wrapper](./gradle/upgrade.md)
+
+Github
+
+[Delete all artifacts](./github/delete-all-artifacts.md)
