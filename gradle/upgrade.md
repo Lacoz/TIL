@@ -6,4 +6,4 @@ Command is :
 
 After that run any commad to download the desired version
 
-`./gradle --version`  
+`./gradlew --version`  

@@ -1,7 +1,7 @@
 # How to delete all artifacts from Github repository 
 
 - create personal access token with `repo` scope
-- run until first list returns empty list, (sometime each delete request throws header status: 500)
+- run until $artifacts_response contains empty list, (sometime each delete request throws header status: 500)
 
 ```bash 
 #!/bin/bash
