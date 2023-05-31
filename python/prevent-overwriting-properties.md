@@ -7,7 +7,6 @@ class Grid:
     data: dict = {}
     def __init__(self, start):
         self.start = start
-        self.data = {}
     def doStep1(self, likes):
         self.data['likes'] = likes
     def doStep2(self, views):
