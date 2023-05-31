@@ -1,4 +1,4 @@
-Python classes 
+Python classes  allows initialization of properties inline, but this is suprisingly problematic:
 
 
 ```
