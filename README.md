@@ -14,3 +14,7 @@ Gradle
 Github
 
 [Delete all artifacts](./github/delete-all-artifacts.md)
+
+Python
+
+[Prevent overwriting properties for class instance](./python/prevent-overwriting-properties.md)
