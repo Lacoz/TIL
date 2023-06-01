@@ -1,3 +1,6 @@
+# How to prevent overwriting properties of class instance
+
+
 Python classes  allows initialization of properties inline, but this is suprisingly problematic:
 
 
