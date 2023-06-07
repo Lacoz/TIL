@@ -2,6 +2,7 @@
 Kotlin
 
 [Infix functions](./kotlin/infix-functions.md)
+[Smart casts](./kotlin/smart-casts.md)
 
 Cloud GPU
     
